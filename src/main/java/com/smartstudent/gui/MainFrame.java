@@ -430,7 +430,7 @@ public class MainFrame extends JFrame {
             "• Statistics and analytics\n" +
             "• Export functionality\n" +
             "• Grade calculation\n\n" +
-            "Developed by Chandraveer Singh Raput for educational purposes";
+            "Developed by Chandraveer Singh Rajput for educational purposes only please do not copy ";
         
         JOptionPane.showMessageDialog(this, aboutMessage, "About", JOptionPane.INFORMATION_MESSAGE);
     }

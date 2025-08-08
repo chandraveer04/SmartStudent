@@ -162,4 +162,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Smart Student Management System - Developed by Chandraveer Singh Rajput for educational purposes
+Smart Student Management System - Developed by Chandraveer Singh Rajput for educational purposes only please do not copy 
